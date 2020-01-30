@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rsync -e "ssh -x" ssh/config vsbg-ft-host:~/.ssh/config
+rsync -e "ssh -x" ft-host/ssh/config vsbg-ft-host:~/.ssh/config
