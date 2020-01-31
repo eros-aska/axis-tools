@@ -12,4 +12,4 @@ cd sshpass-1.05
 make
 sudo make install
 
-rm -f sshpass-1.05*
+rm -f ~/sshpass-1.05*
