@@ -14,7 +14,7 @@ fi
 cp bitbake-host/env/.bash_aliases ~/.bash_aliases
 source ~/.bash_aliases
 
-cp bitbake-host/* ~/
+cp bitbake-host/git/* ~/
 
 echo "source ~/.git-prompt.sh" >> ~/.bashrc
 echo "source ~/.ps1gitrc" >> ~/.bashrc
