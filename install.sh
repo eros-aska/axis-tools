@@ -16,8 +16,8 @@ source ~/.bash_aliases
 
 cp bitbake-host/* ~/
 
-echo "source ~/.git-prompt.sh" >> /root/.bashrc
-echo "source ~/.ps1gitrc" >> /root/.bashrc
+echo "source ~/.git-prompt.sh" >> ~/.bashrc
+echo "source ~/.ps1gitrc" >> ~/.bashrc
 
 source ~/.bashrc
 source ~/.bash_aliases
