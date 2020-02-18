@@ -1,19 +1,19 @@
-Host sc
+Host SC
     User root
     Hostname 192.168.2.5
 
-Host pl0
+Host PL0
     User root
     Hostname 192.168.2.103
 
-Host pl1
+Host PL1
     User root
     Hostname 192.168.2.100
 
-Host pl2
+Host PL2
     User root
     Hostname 192.168.2.102
 
-Host pl3
+Host PL3
     User root
     Hostname 192.168.2.101

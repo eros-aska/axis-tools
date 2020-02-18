@@ -22,3 +22,4 @@ echo "source ~/.ps1gitrc" >> ~/.bashrc
 
 source ~/.bashrc
 source ~/.bash_aliases
+
